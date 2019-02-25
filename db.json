@@ -1,0 +1,402 @@
+{
+"mahasiswa" : [{
+  "id": 1,
+  "name": "Kiel",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Hillier",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Patton",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Vivyan",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "name": "Paul",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Shari",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Neill",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Linea",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Andre",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Charlotte",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Zebulon",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Desi",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Winnah",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Taylor",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Neale",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Richmond",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Tymon",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Haze",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Dalston",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Madelaine",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Darnell",
+  "gender": "Male"
+}, {
+  "id": 22,
+  "name": "Otis",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Dannie",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Dolph",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Bordy",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Albina",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Cherida",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Almira",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Lauri",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Cara",
+  "gender": "Female"
+}, {
+  "id": 31,
+  "name": "Yasmeen",
+  "gender": "Female"
+}, {
+  "id": 32,
+  "name": "Farrah",
+  "gender": "Female"
+}, {
+  "id": 33,
+  "name": "Tony",
+  "gender": "Male"
+}, {
+  "id": 34,
+  "name": "Mallory",
+  "gender": "Male"
+}, {
+  "id": 35,
+  "name": "Quill",
+  "gender": "Male"
+}, {
+  "id": 36,
+  "name": "Tatiana",
+  "gender": "Female"
+}, {
+  "id": 37,
+  "name": "Marnie",
+  "gender": "Female"
+}, {
+  "id": 38,
+  "name": "Griffith",
+  "gender": "Male"
+}, {
+  "id": 39,
+  "name": "Eddie",
+  "gender": "Male"
+}, {
+  "id": 40,
+  "name": "Tilly",
+  "gender": "Female"
+}, {
+  "id": 41,
+  "name": "Tye",
+  "gender": "Male"
+}, {
+  "id": 42,
+  "name": "Jedd",
+  "gender": "Male"
+}, {
+  "id": 43,
+  "name": "Dana",
+  "gender": "Female"
+}, {
+  "id": 44,
+  "name": "Shae",
+  "gender": "Female"
+}, {
+  "id": 45,
+  "name": "Dennis",
+  "gender": "Male"
+}, {
+  "id": 46,
+  "name": "Timmi",
+  "gender": "Female"
+}, {
+  "id": 47,
+  "name": "Kattie",
+  "gender": "Female"
+}, {
+  "id": 48,
+  "name": "Jimmy",
+  "gender": "Male"
+}, {
+  "id": 49,
+  "name": "Katrinka",
+  "gender": "Female"
+}, {
+  "id": 50,
+  "name": "Ashlie",
+  "gender": "Female"
+}, {
+  "id": 51,
+  "name": "Nevile",
+  "gender": "Male"
+}, {
+  "id": 52,
+  "name": "Trina",
+  "gender": "Female"
+}, {
+  "id": 53,
+  "name": "Richart",
+  "gender": "Male"
+}, {
+  "id": 54,
+  "name": "Gonzalo",
+  "gender": "Male"
+}, {
+  "id": 55,
+  "name": "Mervin",
+  "gender": "Male"
+}, {
+  "id": 56,
+  "name": "Coleman",
+  "gender": "Male"
+}, {
+  "id": 57,
+  "name": "Astra",
+  "gender": "Female"
+}, {
+  "id": 58,
+  "name": "Vanny",
+  "gender": "Female"
+}, {
+  "id": 59,
+  "name": "Currey",
+  "gender": "Male"
+}, {
+  "id": 60,
+  "name": "Bartel",
+  "gender": "Male"
+}, {
+  "id": 61,
+  "name": "Yank",
+  "gender": "Male"
+}, {
+  "id": 62,
+  "name": "Maury",
+  "gender": "Male"
+}, {
+  "id": 63,
+  "name": "Leonelle",
+  "gender": "Female"
+}, {
+  "id": 64,
+  "name": "Sergio",
+  "gender": "Male"
+}, {
+  "id": 65,
+  "name": "Coralie",
+  "gender": "Female"
+}, {
+  "id": 66,
+  "name": "Donia",
+  "gender": "Female"
+}, {
+  "id": 67,
+  "name": "Ingunna",
+  "gender": "Female"
+}, {
+  "id": 68,
+  "name": "Westbrook",
+  "gender": "Male"
+}, {
+  "id": 69,
+  "name": "Jerrylee",
+  "gender": "Female"
+}, {
+  "id": 70,
+  "name": "Aymer",
+  "gender": "Male"
+}, {
+  "id": 71,
+  "name": "Jud",
+  "gender": "Male"
+}, {
+  "id": 72,
+  "name": "Thurston",
+  "gender": "Male"
+}, {
+  "id": 73,
+  "name": "Lizzie",
+  "gender": "Female"
+}, {
+  "id": 74,
+  "name": "Kelsi",
+  "gender": "Female"
+}, {
+  "id": 75,
+  "name": "Bary",
+  "gender": "Male"
+}, {
+  "id": 76,
+  "name": "Nobe",
+  "gender": "Male"
+}, {
+  "id": 77,
+  "name": "Clary",
+  "gender": "Female"
+}, {
+  "id": 78,
+  "name": "Rheba",
+  "gender": "Female"
+}, {
+  "id": 79,
+  "name": "Rhonda",
+  "gender": "Female"
+}, {
+  "id": 80,
+  "name": "Terry",
+  "gender": "Male"
+}, {
+  "id": 81,
+  "name": "Hymie",
+  "gender": "Male"
+}, {
+  "id": 82,
+  "name": "Dale",
+  "gender": "Male"
+}, {
+  "id": 83,
+  "name": "Correy",
+  "gender": "Male"
+}, {
+  "id": 84,
+  "name": "Darrick",
+  "gender": "Male"
+}, {
+  "id": 85,
+  "name": "Latia",
+  "gender": "Female"
+}, {
+  "id": 86,
+  "name": "Fannie",
+  "gender": "Female"
+}, {
+  "id": 87,
+  "name": "Oren",
+  "gender": "Male"
+}, {
+  "id": 88,
+  "name": "Archibaldo",
+  "gender": "Male"
+}, {
+  "id": 89,
+  "name": "Desi",
+  "gender": "Male"
+}, {
+  "id": 90,
+  "name": "Faye",
+  "gender": "Female"
+}, {
+  "id": 91,
+  "name": "George",
+  "gender": "Male"
+}, {
+  "id": 92,
+  "name": "Harcourt",
+  "gender": "Male"
+}, {
+  "id": 93,
+  "name": "Suzanne",
+  "gender": "Female"
+}, {
+  "id": 94,
+  "name": "Marcelia",
+  "gender": "Female"
+}, {
+  "id": 95,
+  "name": "Karita",
+  "gender": "Female"
+}, {
+  "id": 96,
+  "name": "Alaine",
+  "gender": "Female"
+}, {
+  "id": 97,
+  "name": "Agatha",
+  "gender": "Female"
+}, {
+  "id": 98,
+  "name": "Miquela",
+  "gender": "Female"
+}, {
+  "id": 99,
+  "name": "Teriann",
+  "gender": "Female"
+}, {
+  "id": 100,
+  "name": "Joelynn",
+  "gender": "Female"
+}]
